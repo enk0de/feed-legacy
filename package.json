@@ -49,7 +49,7 @@
     "lodash": "^4.17.21",
     "node-sass": "^4.11.0",
     "postcss": "^7.0.35",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.23.0",
     "query-string": "^6.13.1",
     "react": "^16.8.1",
     "react-disqus-comments": "^1.4.0",
