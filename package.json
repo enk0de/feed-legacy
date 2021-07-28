@@ -14,7 +14,7 @@
     "@types/classnames": "^2.2.11",
     "autoprefixer": "^9.8.6",
     "classnames": "^2.2.6",
-    "gatsby": "^2.31.0",
+    "gatsby": "^2.32.8",
     "gatsby-image": "^2.8.0",
     "gatsby-plugin-emotion": "^5.1.0",
     "gatsby-plugin-feed": "^2.1.0",
